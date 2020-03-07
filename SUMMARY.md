@@ -16,3 +16,7 @@
 * [Exploring Solutions](user-centered-design/exploring-solutions.md)
 * [Materializing and Implementing](user-centered-design/materializing-and-implementing.md)
 
+## Bicycles
+
+* [Riding from Washington, DC to Pittsburgh](bicycles/riding-from-washington-dc-to-pittsburgh.md)
+
