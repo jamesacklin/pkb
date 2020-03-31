@@ -1,3 +1,7 @@
+---
+description: Ideally fluffy and hearty.
+---
+
 # Buckwheat Pancakes
 
 ### Ingredients
