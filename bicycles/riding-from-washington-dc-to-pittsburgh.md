@@ -4,7 +4,7 @@ Riding from Washington, DC to Pittsburgh \(or the reverse\) is a rite of passage
 
 ### Websites & Planning Resources
 
-The [BikeCandO.com](http://www.bikecando.com/) website \(easily remembered in the midst of your tour as “bike-can-do”\), despite looking like it’s from 2000, is fairly comprehensive. The [C&O Canal Trust website](http://www.canaltrust.org/) is also excellent, and up-to-date.
+The [BikeCandO.com](http://www.bikecando.com/) website \(easily remembered in the midst of your tour as “bike-can-do”\), despite its 20th century aesthetics, is fairly comprehensive. The [C&O Canal Trust website](http://www.canaltrust.org/) is also excellent, and up-to-date.
 
 The most useful thing by far on bikecando.com is the mileage chart—you can flip the direction of your trip \(east to west, west to east\), and when you click on the name of a town, that sets your new bearing. So, if you were planning on starting from, say, Williamsport, click on Williamsport, it highlights the row in yellow, and all the distance markers reconfigure themselves around it. That’s especially helpful when planning individual days.
 
@@ -22,20 +22,22 @@ The surface of both trails are not particularly well-groomed, especially the C&O
 
 The GAP is covered with crushed limestone, with has a much greater coefficient of friction than even the dirt on the C&O towpath, so you’ll feel like you’re pushing your bike through wet granola for most of the time. The key is consistency and pacing, and not pushing yourself to the breaking point 20 miles out of town.
 
-Wool clothing is your friend—it’s breathes well, wicks moisture away from your skin, doesn’t saturate or get clammy, and is naturally microbial, so it won’t smell, even after 5 days on the trail. Cotton kills—it is exactly the opposite of all those things and will saturate and freeze if it gets cold enough. For this time of year, I’m big on the following setup:
+Wool clothing is your friend—it’s breathes well, wicks moisture away from your skin, doesn’t saturate or get clammy, and is naturally microbial, so it won’t smell, even after 5 days on the trail. Cotton kills—it is exactly the opposite of all those things and will saturate and freeze if it gets cold enough. 
+
+For fall and spring, I recommend the following:
 
 * Wool socks with cycling shoes, shoe covers optional
 * Neoprene fleece-backed or wool knee warmers and leg warmers, switch out as needed
-* Bib shorts with cut-off Dickies over top, sub in polyester “adventure” shorts for significantly less punk rock cred, swap to lightweight pants \(not jeans\) if needed
+* Bib shorts with polyester “adventure” shorts, swap to lightweight pants \(not jeans\) if needed
 * Short-sleeve wool base layer
 * Long-sleeve wool base layer, removable if you get warm
 * Long-sleeve wool flannel, which you can unbutton to regulate your temperature or remove altogether
 * Wool gloves! DeFeet makes great Cordura-wool blend gloves and are $14.
 * A good rain jacket
 * Thick windproof cycling cap with ear-flaps and thin cotton cycling cap, switch as needed
-* Helmet. Nobody will laugh at you for wearing a helmet, ever, and if they do, never speak to them again
+* Helmet
 
-If you need any of these things, I can either loan you or recommend something you can pick up at Performance Bike. I would heartily recommend investing in this stuff, you will thank yourself when it dips down to just over 35° and starts snowing \(because that’s a thing that happens in April in this part of the country!\).
+If you do not already own these clothing items, I would heartily recommend investing in it, especially if you plan on riding in this weather a lot. You will also thank yourself on the trail if it dips down to just over 35°F and starts snowing.
 
 ### Recommended Itinerary
 
@@ -60,7 +62,7 @@ Several options for housing:
 * Camp at [Bald Eagle Island](http://www.canaltrust.org/pyv/bald-eagle-island-campsite/), near mile marker 50, at the free Hiker-Biker campsite. GPS: `39.2986296, -77.5570792`. This will put you a little farther south than Harper’s Ferry if you wanted to do some sightseeing. 
 * Camp near Brunswick, near mile marker 54. There is a paid campground called the “[Brunswick Family Campground](https://www.potomacrivercampground.com/).” I have no experience camping here, but I understand it needs reservations. There are showers and plumbing. This will also put you a little farther south of Harper's Ferry.
 * Stay in [a historic lockhouse](http://www.canaltrust.org/programs/canal-quarters/canal-quarters-lockhouses-overview/lockhouse-28/) \#28 \(!\) near Point of Rocks, close to mile marker 50. I’ve never done this before, but it seems legitimately pretty rad. You will need to call ahead and reserve. Again, this is a little farther south of Harper’s Ferry, so if this is your plan, then definitely bring food. No reservation needed.
-* Hostel in Harper's Ferry called [The Teahorse Hostel](http://www.teahorsehostel.com/), GPS: `39.3254125, -77.7498955`. Harper's Ferry sits on the Appalachian trail, so there is a small cottage industry of serving through-hikers and section-hikers with laundry and showers. The owner, Laurel, is very nice if not slightly matronly. The hostel sits two doors down from The Anvil, the only bar / restaurant in Harpers Ferry that stays open even reasonably late. Laurel will take a walk-in if you call her an hour beforehand in a panic like I did one year \(and she will let you sleep on the floor\), but she’d really prefer a reservation.
+* Hostel in Harper's Ferry called [The Teahorse Hostel](http://www.teahorsehostel.com/), GPS: `39.3254125, -77.7498955`. Harper's Ferry sits on the Appalachian trail, so there is a small cottage industry of serving through-hikers and section-hikers with laundry and showers. The owner, Laurel, is very nice if not slightly matronly. The hostel sits two doors down from The Anvil, the only bar / restaurant in Harper's Ferry that stays open even reasonably late. Laurel will take a walk-in if you call her an hour beforehand in a panic like I did one year \(and she will let you sleep on the floor\), but she’d really prefer a reservation.
 * Hotel in Harper’s Ferry at the [Econo Lodge](https://www.choicehotels.com/west-virginia/harpers-ferry/econo-lodge-hotels/wv406?source=gyxt).
 * The most athletic option: sight-see in Harper’s Ferry, then hoof it back across the river back onto the trail, then camp at [Huckleberry Hill campsite](http://www.canaltrust.org/pyv/huckleberry-hill-campsite/), near mile marker 63. GPS: `39.3416757, -77.7567942`.  This will put you farther north, so you could _in theory_ roll through Harper’s Ferry a little early, eat dinner at a bar, then hop back on the trail and pedal a little north, then camp for the night. No reservation needed.
 
@@ -93,7 +95,7 @@ An important note about food: there is very little at all between Hancock and Cu
 
 You will ceremoniously reach the end of the C&O canal path in Cumberland. Cumberland is a strange town, but pretty quaint. There is a nice tourist area that you roll into with a bike shop run by an eccentric Dead-head home brewer named Hutch called the [Cumberland Trail Connection](ctcbikes.com). Hutch is insane, but he knows his market. The bike shop is fully-stocked with everything you could possibly need for the next leg of your journey—Clif bars, camp dinners, butane, bike stuff, wool socks, everything.
 
-There is plenty of food to be had in Cumberland; there’s a Chinese place, a Wendy’s, a BBQ place next to the bike shop, a couple pizza places, and a hilarious place a local insisted my buddies and I go to called [MEZZOS](http://www.mezzosbar.com/menu.html). Sit at the bar and people-watch.
+There is plenty of food to be had in Cumberland.
 
 Lodging options:
 
@@ -103,9 +105,9 @@ Lodging options:
 
 #### **Day 4: Cumberland, MD to Confluence, PA - 62.5 miles**
 
-Before you leave Cumberland, get coffee and pastries at European Desserts right next to the start of the GAP trail. Sasha is a really, really nice guy, and will be happy to wrap a couple squares of baklava up for you \(which is like rocket fuel on the bike\).
+Before you leave Cumberland, get coffee and pastries at European Desserts right next to the start of the GAP trail. Sasha is very friendly and will be happy to wrap a few squares of baklava up for you.
 
-The climb out Cumberland is hard but not impossible. Note that the temperatures will drop and you will need to add layers. Once, my buddy and I did not anticipate the temperature difference and ended up on top of the mountain in half an inch of snow with no gloves, no thick hats, no shoe covers, and thin windbreakers. It was absolutely miserable. Plan ahead with clothing that will let you ride in a wide temperature range.
+The climb out Cumberland is hard but not impossible. Note that the temperatures will drop and you will need to add layers. Once, my buddy and I did not anticipate the temperature difference and ended up on top of the mountain with a light dusting of snow with no gloves, no thick hats, no shoe covers, and thin windbreakers. Plan ahead with clothing that will let you ride in a wide temperature range.
 
 Near the top of Mount Savage, you’ll cross the Mason-Dixon line. Once on top of the mountain, you’ll go through the Big Savage Tunnel, which is insanely long and pretty incredible. Definitely the highlight of the day. Then you’ll cross over the continental divide.
 
