@@ -20,3 +20,7 @@
 
 * [Riding from Washington, DC to Pittsburgh](bicycles/riding-from-washington-dc-to-pittsburgh.md)
 
+## Food
+
+* [Buckwheat Pancakes](food/buckwheat-pancakes.md)
+
