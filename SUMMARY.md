@@ -24,3 +24,7 @@
 
 * [Buckwheat Pancakes](food/buckwheat-pancakes.md)
 
+## Programming
+
+* [Clojure\(Script\) Cheat Sheet](programming/clojure-script-cheat-sheet.md)
+
