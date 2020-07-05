@@ -15,6 +15,8 @@
   * [Journey Maps](user-centered-design/understanding-users-and-problems/journey-maps.md)
 * [Exploring Solutions](user-centered-design/exploring-solutions.md)
 * [Materializing and Implementing](user-centered-design/materializing-and-implementing.md)
+* [Notes from texts](user-centered-design/notes-from-texts/README.md)
+  * [_The Art of Interactive Design_ (Chris Crawford, 2003)](user-centered-design/notes-from-texts/art-of-interactive-design.md)
 
 ## Bicycles
 
